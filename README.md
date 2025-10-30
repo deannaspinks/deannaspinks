@@ -1,14 +1,14 @@
 # Hi, I'm Deanna 👋 
 
-Software Engineer | Building adaptable and robust cloud, edge and AI systems for healthcare innovation
+#### Software Engineer | Building adaptable and robust cloud, edge and AI systems for healthcare innovation
 
 I’m a software engineer with a background in biomedical science, physiology, and neuroscience. My experience spans lab management, quality systems and emergency management, giving me the ability to bridge software engineering with real-world clinical and operational environments.
 
 I apply this multidisciplinary foundation to build reliable, data-driven healthcare and research solutions.
 
-A jack of all trades, I translate vague ideas into full-fledged features with minimal direction. I have experience facilitating Agile delivery as Scrum Master for a university capstone project.
+A jack of all trades, I translate vague ideas into full-fledged features with minimal direction. I have experience facilitating Agile delivery as Scrum Master for a university capstone project and project management experience in government and research contexts.
 
-I work across data, backend, infrastructure, and user-facing interfaces. I design cohesive systems with adaptability, reliability, usability and compliance in mind.
+I work across data, backend, infrastructure, and user-facing interfaces. I design cohesive systems with adaptability, reliability, usability and compliance in mind. 
 
 ---
 
