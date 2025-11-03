@@ -2,13 +2,15 @@
 
 #### Software Engineer | Building adaptable and robust cloud, edge and AI systems for healthcare innovation
 
-I’m a software engineer with a background in biomedical science, physiology, and neuroscience. My experience spans lab management, quality systems and emergency management, giving me the ability to bridge software engineering with real-world clinical and operational environments.
+I’m a software engineer with a background in biomedical science, physiology, and neuroscience. My experience spans lab management, quality systems and emergency management, giving me the ability to bridge software engineering with real-world, fast-paced, customer-facing operational environments where emergency response and management processes are of critical importance.
 
 I apply this multidisciplinary foundation to build reliable, data-driven healthcare and research solutions.
 
-A jack of all trades, I translate vague ideas into full-fledged features with minimal direction. I have experience facilitating Agile delivery as Scrum Master for a university capstone project and project management experience in government and research contexts.
+** [My team won the hackathon.... (role)]
 
-I work across data, backend, infrastructure, and user-facing interfaces. I design cohesive systems with adaptability, reliability, usability and compliance in mind. 
+I work across data, backend, infrastructure, and user-facing interfaces. I design cohesive systems with adaptability, reliability, usability and compliance in mind.
+
+A jack of all trades, I translate vague ideas into full-fledged features with minimal direction. I have experience facilitating Agile delivery as Scrum Master for a university capstone project.
 
 ---
 
@@ -22,33 +24,33 @@ I work across data, backend, infrastructure, and user-facing interfaces. I desig
 ## 🛠️ Tech I Work With
 
 💻 **Languages:**
-  *Advanced:* Python, C, Java
-  *Intermediate:* Go, JavaScript
-  *Proficient:* HTML, CSS
+- *Advanced:* Python, C, Java
+- *Intermediate:* Go, JavaScript
+- *Proficient:* HTML, CSS
 
 ⚙️ **Frameworks & Libraries:**
-  *Intermediate:* FastAPI, Flask
-  🌱 *Learning:* React, Next.js, Express.js, Node.js, Django
+- *Intermediate:* FastAPI, Flask
+- 🌱 *Learning:* React, Next.js, Express.js, Node.js, Django
 
 ☁️ **Cloud & Infrastructure:**  
-  *Intermediate:* Docker, Linux, GitHub Actions, Google Cloud, AWS, Azure, DigitalOcean
-  🌱 *Learning:* Jenkins, Kubernetes, API gateways, edge computing architectures
+- *Intermediate:* Docker, Linux, GitHub Actions, Google Cloud, AWS, Azure, DigitalOcean
+- 🌱 *Learning:* Jenkins, Kubernetes, API gateways, edge computing architectures
 
 🔐 **Security & Identity Management:**
-  *Awareness:* OWASP, Zero Trust, Cloud IAM (Azure, AWS, GCP), Threat Modeling, Role-Based Access Control (RBAC)
-  🌱 *Learning:* Keycloak, OAuth2, OpenID Connect, SSO Integrations, JWT
+- *Awareness:* OWASP, Zero Trust, Cloud IAM (Azure, AWS, GCP), Threat Modeling, Role-Based Access Control (RBAC)
+- 🌱 *Learning:* Keycloak, OAuth2, OpenID Connect, SSO Integrations, JWT
 
 📊 **Data & ML:**  
-  *Intermediate:* Scikit-learn, Pandas, NumPy, PowerBI - built on a strong foundation in data processing from university coursework
-  🌱 *Learning:* TensorFlow, data engineering & streaming (Kafka, Spark)
+- *Intermediate:* Scikit-learn, Pandas, NumPy - built on a strong foundation in data processing from university coursework, PowerBI
+- 🌱 *Learning:* TensorFlow, data engineering & streaming (Kafka, Spark)
 
 🧩 **Systems & Tools:**  
-  *Advanced:* Linear, Jira, Confluence
-  *Intermediate:* GDB, Make, valgrind, REST APIs  
+- *Advanced:* Linear, Jira, Confluence
+- *Intermediate:* GDB, Make, valgrind, REST APIs  
 
 🧱 **Compliance Foundations:** 
-  *Awareness:* Australian regulatory context, ISO 9001, ISO 45001, GDPR
-  🌱 *Learning:* ISO 13485 (MedTech), ISO 27001 (Security), FHIR, HIPAA, Privacy-by-Design, SSDLC
+- *Awareness:* Australian regulatory context, ISO 9001, ISO 45001, GDPR
+- 🌱 *Learning:* ISO 13485 (MedTech), ISO 27001 (Security), FHIR, HIPAA, Privacy-by-Design, SSDLC
   
 
 ### 🧭 Future Focus
@@ -67,7 +69,7 @@ Exploring areas to integrate into future healthcare systems work:
 
 ---
 
-## 🎯 Interests
+## 🎯 Professional Interests
 - Digital Health & MedTech innovation
 - Neuroscience, Biomedical Science, Neuropsychology (and cutting-edge research more generally)
 - Cloud and Edge Computing for healthcare applications
