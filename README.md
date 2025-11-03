@@ -29,7 +29,7 @@ A jack of all trades, I translate vague ideas into full-fledged features with mi
 - *Proficient:* HTML, CSS
 
 ⚙️ **Frameworks & Libraries:**
-- *Intermediate:* FastAPI, Flask
+- *Intermediate:* FastAPI, Flask, jsPsych
 - 🌱 *Learning:* React, Next.js, Express.js, Node.js, Django
 
 ☁️ **Cloud & Infrastructure:**  
