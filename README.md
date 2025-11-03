@@ -6,7 +6,7 @@ I’m a software engineer with a background in biomedical science, physiology, a
 
 I apply this multidisciplinary foundation to build reliable, data-driven healthcare and research solutions.
 
-** [My team won the hackathon.... (role)]
+🏆 Winner of the NextGenAI Hackathon (2025) - our team of five completed the Heidi Health Challenge, developing a functional end-to-end voice AI healthcare assistant in 7 days.
 
 I work across data, backend, infrastructure, and user-facing interfaces. I design cohesive systems with adaptability, reliability, usability and compliance in mind.
 
