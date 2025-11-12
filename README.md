@@ -79,5 +79,4 @@ Exploring areas to integrate into future healthcare systems work:
 ---
 
 ## 🔗 Connect
-I'm open to job opportunities and collaborations - reach out to me on LinkedIn through the link below:
-- [My LinkedIn profile](https://www.linkedin.com/in/deanna-spinks/)
+I'm open to job opportunities and collaborations - reach out to me via [my LinkedIn profile](https://www.linkedin.com/in/deanna-spinks/).
