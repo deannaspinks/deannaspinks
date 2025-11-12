@@ -79,5 +79,5 @@ Exploring areas to integrate into future healthcare systems work:
 ---
 
 ## 🔗 Connect
-- [LinkedIn](https://www.linkedin.com/in/deanna-spinks/)
-- [Portfolio Organization](https://github.com/deanna-spinks)
+I'm open to job opportunities and collaborations - reach out to me on LinkedIn through the link below:
+- [My LinkedIn profile](https://www.linkedin.com/in/deanna-spinks/)
