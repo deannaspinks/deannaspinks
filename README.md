@@ -35,44 +35,44 @@ I enjoy the intersection where data → modelling → engineering → clinical c
 
 ⸻
 
-🛠️ Tech I Work With
+# 🛠️ Tech I Work With
 
-💻 Languages
+**💻 Languages**
 - Advanced: Python, C
 - Intermediate: Go, Java
 - Proficient: JavaScript, HTML/CSS
 
-📊 Machine Learning & Data
+**📊 Machine Learning & Data**
 - scikit-learn · NumPy · Pandas
 - supervised pipelines · feature engineering · leakage prevention
 - data cleaning · cross-validation & evaluation patterns
 - exploratory analysis · statistical reasoning
 - Learning: TensorFlow, MLflow, streaming (Kafka/Spark)
 
-🧪 Biomedical & Signal Data
+**🧪 Biomedical & Signal Data**
 - EEG · behavioural & psychophysics datasets
 - sampling rate considerations · timing sensitivity
 - artefact awareness · MATLAB data-acquisition workflows
 
-🧩 Backend & Systems
+**🧩 Backend & Systems**
 - FastAPI · Flask · REST APIs
 - containerised workflows (Docker) · Linux · GitHub Actions
 - reproducible environments · modular service patterns
 - Learning: Kubernetes, API gateways, edge-compute patterns
 
-☁️ Cloud Foundations
+**☁️ Cloud Foundations**
 - GCP · Azure · AWS (foundational)
 - cloud IAM basics · secrets/config management
 - deployment hygiene & environment setup
 
-🔐 Compliance & Healthcare
+**🔐 Compliance & Healthcare**
 - QMS-awareness: ISO 9001/45001
 - PHI/PII handling · privacy-by-design principles
 - Learning: ISO 13485, HIPAA, FHIR, ISO 27001
 
 ⸻
 
-📁 Where to Find My Work
+# 📁 Where to Find My Work
 
 👉 [Portfolio Organisation (WIP)](https://github.com/deannaspinks)
 
@@ -86,7 +86,7 @@ Some applied-AI and ML projects are still being migrated into structured form an
 
 ⸻
 
-🎯 Professional Interests
+# 🎯 Professional Interests
 - Machine learning on behavioural, biosignal & health datasets
 - Data engineering supporting ML & experimentation
 - Digital health & MedTech innovation
@@ -96,7 +96,7 @@ Some applied-AI and ML projects are still being migrated into structured form an
 
 ⸻
 
-🧭 Future Directions
+# 🧭 Future Directions
 - Biosignal/time-series modelling
 - MLOps foundations for reproducible experiments
 - Secure cloud/edge pipelines for healthcare data
