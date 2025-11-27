@@ -1,8 +1,8 @@
 # Hi, I'm Deanna 👋 
 
-#### Software Engineer | Building adaptable, compliant and robust cloud, edge and AI systems for healthcare innovation
+#### Cloud and AI Systems Engineer | Building adaptable, compliant and robust cloud, edge and AI systems for healthcare innovation
 
-I’m a software engineer with a background in biomedical science, physiology, and neuroscience. My experience spans lab management, quality systems and emergency management, giving me the ability to bridge software engineering with real-world, fast-paced, customer-facing operational environments where emergency response and management processes are of critical importance.
+I’m a Cloud and AI Systems Engineer with a background in biomedical science, physiology, and neuroscience. My experience spans lab management, quality systems and emergency management, giving me the ability to bridge software engineering with real-world, fast-paced, customer-facing operational environments where emergency response and management processes are of critical importance.
 
 I apply this multidisciplinary foundation to build reliable, data-driven healthcare and research solutions.
 
