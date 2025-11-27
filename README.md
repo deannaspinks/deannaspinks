@@ -1,6 +1,6 @@
-Hi, I’m Deanna 👋
+# Hi, I’m Deanna 👋
 
-ML & Cloud Engineer | Biomedical Data | Applied AI | Digital Health Systems
+#### ML & Cloud Engineer | Biomedical Data | Applied AI | Digital Health Systems
 
 I’m a machine-learning–oriented engineer working across data workflows, reproducible experimentation pipelines, backend services, and cloud-aligned development. My background in biomedical science, neuroscience research, and computing gives me a strong foundation for building reliable, privacy-conscious systems in health and research contexts.
 
@@ -13,25 +13,25 @@ I enjoy the intersection where data → modelling → engineering → clinical c
 
 ⸻
 
-🔭 Current Focus
+# 🔭 Current Focus
 
-Machine Learning & Data
-	•	ML-ready datasets for real-world data
-	•	reproducible pipelines · cross-validation · model evaluation
-	•	feature engineering on behavioural & biosignal datasets
-	•	experiment tracking & structure
+**Machine Learning & Data**
+- ML-ready datasets for real-world data
+- reproducible pipelines · cross-validation · model evaluation
+- feature engineering on behavioural & biosignal datasets
+- experiment tracking & structure
 
-Cloud & Applied AI Engineering
-	•	backend components supporting data preparation & inference
-	•	containerised experimentation environments
-	•	lightweight cloud workflows | reproducible development setups
-	•	clean API surfaces for ML and analytics workflows
+**Cloud & Applied AI Engineering**
+- backend components supporting data preparation & inference
+- containerised experimentation environments
+- lightweight cloud workflows | reproducible development setups
+- clean API surfaces for ML and analytics workflows
 
-Healthcare & Scientific Context
-	•	PHI/PII-aware design
-	•	QMS-informed workflow design
-	•	data-governance mindset
-	•	experimental design & statistical reasoning
+**Healthcare & Scientific Context**
+- PHI/PII-aware design
+- QMS-informed workflow design
+- data-governance mindset
+- experimental design & statistical reasoning
 
 ⸻
 
@@ -87,18 +87,18 @@ Some applied-AI and ML projects are still being migrated into structured form an
 ⸻
 
 🎯 Professional Interests
-	•	Machine learning on behavioural, biosignal & health datasets
-	•	Data engineering supporting ML & experimentation
-	•	Digital health & MedTech innovation
-	•	Applied AI patterns for real workflows
-	•	Cloud-aligned ML environments
-	•	Systems that balance performance, reliability, and compliance
+- Machine learning on behavioural, biosignal & health datasets
+- Data engineering supporting ML & experimentation
+- Digital health & MedTech innovation
+- Applied AI patterns for real workflows
+- Cloud-aligned ML environments
+- Systems that balance performance, reliability, and compliance
 
 ⸻
 
 🧭 Future Directions
-	•	Biosignal/time-series modelling
-	•	MLOps foundations for reproducible experiments
-	•	Secure cloud/edge pipelines for healthcare data
-	•	Advanced applied-AI evaluation & safety
-	•	Scientific computing & efficient Python/Go modules
+- Biosignal/time-series modelling
+- MLOps foundations for reproducible experiments
+- Secure cloud/edge pipelines for healthcare data
+- Advanced applied-AI evaluation & safety
+- Scientific computing & efficient Python/Go modules
