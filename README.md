@@ -74,15 +74,15 @@ I enjoy the intersection where data → modelling → engineering → clinical c
 
 # 📁 Where to Find My Work
 
-👉 [Portfolio Organisation (WIP)](https://github.com/deannaspinks)
+**👉 [Portfolio Organisation (WIP)](https://github.com/deannaspinks)**
 
 I set this up so I could integrate my GitHub repos with Linear. Aiming for this to be the home of more polished, documented projects.
 
-👉 This GitHub Account
+**👉 This GitHub Account**
 
 Explorations, prototypes, and learning repositories.
 
-Some applied-AI and ML projects are still being migrated into structured form and aren't in my GitHub - feel free to ask about in-progress work.
+Some applied-AI and ML projects aren't in my GitHub yet - feel free to ask about in-progress work.
 
 ⸻
 
