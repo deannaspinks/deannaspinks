@@ -1,82 +1,105 @@
-# Hi, I'm Deanna 👋 
+Hi, I’m Deanna 👋
 
-#### Cloud and AI Systems Engineer | Building adaptable, compliant and robust cloud, edge and AI systems for healthcare innovation
+ML & Cloud Engineer | Biomedical Data | Applied AI | Digital Health Systems
 
-I’m a Cloud and AI Systems Engineer with a background in biomedical science, physiology, and neuroscience. My experience spans lab management, quality systems and emergency management, giving me the ability to bridge software engineering with real-world, fast-paced, customer-facing operational environments where emergency response and management processes are of critical importance.
+I’m a machine-learning–oriented engineer working across data workflows, reproducible experimentation pipelines, backend services, and cloud-aligned development. My background in biomedical science, neuroscience research, and computing gives me a strong foundation for building reliable, privacy-conscious systems in health and research contexts.
 
-I apply this multidisciplinary foundation to build reliable, data-driven healthcare and research solutions.
+I’ve worked with EEG, behavioural, and psychophysics datasets, timing-sensitive acquisition workflows, and structured ML pipelines—while also building backend components, ingestion pipelines, containerised environments, and early applied-AI prototypes.
 
-🏆 Winner of the NextGenAI Hackathon (2025) - our team of five completed the Heidi Health Challenge, designing and developing a functional end-to-end voice AI healthcare assistant in 7 days.
+🏆 Winner – NextGenAI Hackathon (2025)
+Contributed backend logic, data handling, workflow reliability features, and early scheduling functionality for a voice-assistive healthcare prototype delivered in 7 days.
 
-I work across data, backend, infrastructure, and user-facing interfaces. I design cohesive systems with adaptability, reliability, usability and compliance in mind.
+I enjoy the intersection where data → modelling → engineering → clinical context meet, creating systems that are robust, explainable, and useful to real users.
 
-A jack of all trades, I translate vague ideas into full-fledged features with minimal direction. I have experience facilitating Agile delivery as Scrum Master for a university capstone project.
+⸻
 
----
+🔭 Current Focus
 
-## 🔭 Current Focus
-- **MedTech & Digital Health** - building software that addresses real healthcare challenges
-- **ML/AI Tools** - exploring practical use cases, trade-offs, safety, and reliability
-- **Cloud & Edge Systems** - designing and developing adaptable, reliable, and scalable full-stack pipelines for healthcare data and analytics
+Machine Learning & Data
+	•	ML-ready datasets for real-world data
+	•	reproducible pipelines · cross-validation · model evaluation
+	•	feature engineering on behavioural & biosignal datasets
+	•	experiment tracking & structure
 
----
+Cloud & Applied AI Engineering
+	•	backend components supporting data preparation & inference
+	•	containerised experimentation environments
+	•	lightweight cloud workflows | reproducible development setups
+	•	clean API surfaces for ML and analytics workflows
 
-## 🛠️ Tech I Work With
+Healthcare & Scientific Context
+	•	PHI/PII-aware design
+	•	QMS-informed workflow design
+	•	data-governance mindset
+	•	experimental design & statistical reasoning
 
-💻 **Languages:**
-- *Advanced:* Python, C, Java
-- *Intermediate:* Go, JavaScript
-- *Proficient:* HTML, CSS
+⸻
 
-⚙️ **Frameworks & Libraries:**
-- *Intermediate:* FastAPI, Flask, jsPsych
-- 🌱 *Learning:* React, Next.js, Express.js, Node.js, Django
+🛠️ Tech I Work With
 
-☁️ **Cloud & Infrastructure:**  
-- *Intermediate:* Docker, Linux, GitHub Actions, Google Cloud, AWS, Azure, DigitalOcean
-- 🌱 *Learning:* Jenkins, Kubernetes, API gateways, edge computing architectures
+💻 Languages
 
-🔐 **Security & Identity Management:**
-- *Awareness:* OWASP, Zero Trust, Cloud IAM (Azure, AWS, GCP), Threat Modeling, Role-Based Access Control (RBAC)
-- 🌱 *Learning:* Keycloak, OAuth2, OpenID Connect, SSO Integrations, JWT
+Advanced: Python, C
+Intermediate: Go, Java
+Proficient: JavaScript, HTML/CSS
 
-📊 **Data & ML:**  
-- *Intermediate:* Scikit-learn, Pandas, NumPy - built on a strong foundation in data processing from university coursework, PowerBI
-- 🌱 *Learning:* TensorFlow, data engineering & streaming (Kafka, Spark)
+📊 Machine Learning & Data
+	•	scikit-learn · NumPy · Pandas
+	•	supervised pipelines · feature engineering · leakage prevention
+	•	data cleaning · cross-validation & evaluation patterns
+	•	exploratory analysis · statistical reasoning
+	•	Learning: TensorFlow, MLflow, streaming (Kafka/Spark)
 
-🧩 **Systems & Tools:**  
-- *Advanced:* Linear, Jira, Confluence
-- *Intermediate:* GDB, Make, valgrind, REST APIs  
+🧪 Biomedical & Signal Data
+	•	EEG · behavioural & psychophysics datasets
+	•	sampling rate considerations · timing sensitivity
+	•	artefact awareness · MATLAB data-acquisition workflows
 
-🧱 **Compliance Foundations:** 
-- *Awareness:* Australian regulatory context, ISO 9001, ISO 45001, GDPR
-- 🌱 *Learning:* ISO 13485 (MedTech), ISO 27001 (Security), FHIR, HIPAA, Privacy-by-Design, SSDLC
-  
+🧩 Backend & Systems
+	•	FastAPI · Flask · REST APIs
+	•	containerised workflows (Docker) · Linux · GitHub Actions
+	•	reproducible environments · modular service patterns
+	•	Learning: Kubernetes, API gateways, edge-compute patterns
 
-### 🧭 Future Focus
-Exploring areas to integrate into future healthcare systems work:
-- Applied ML/AI in healthcare contexts
-- Advanced data engineering for real-time systems
-- Secure and compliant edge and cloud architectures for healthcare data pipelines
-- Systems programming for performance-critical software
+☁️ Cloud Foundations
+	•	GCP · Azure · AWS (foundational)
+	•	cloud IAM basics · secrets/config management
+	•	deployment hygiene & environment setup
 
----
+🔐 Compliance & Healthcare
+	•	QMS-awareness: ISO 9001/45001
+	•	PHI/PII handling · privacy-by-design principles
+	•	Learning: ISO 13485, HIPAA, FHIR, ISO 27001
 
-## 📂 Where to Look
-- 👉 [Portfolio Organization](https://github.com/deanna-spinks) — WIP: curated, polished projects (CI/CD pipelines, Linear workflows, cloud infrastructure)
-- 👉 This account — personal projects, experiments, and learning repos
-- 💬 Ask me about my work not hosted or visible on GitHub
+⸻
 
----
+📁 Where to Find My Work
 
-## 🎯 Professional Interests
-- Digital Health & MedTech innovation
-- Neuroscience, Biomedical Science, Neuropsychology (and cutting-edge research more generally)
-- Cloud and Edge Computing for healthcare applications
-- Data Engineering and Applied ML/AI
-- Designing cohesive, human-centered systems that integrate data, infrastructure, and user experience
+👉 [Portfolio Organisation (WIP)](https://github.com/deannaspinks)
 
----
+I set this up so I could integrate my GitHub repos with Linear. Aiming for this to be the home of more polished, documented projects.
 
-## 🔗 Connect
-I'm open to job opportunities and collaborations - reach out to me via [my LinkedIn profile](https://www.linkedin.com/in/deanna-spinks/).
+👉 This GitHub Account
+
+Explorations, prototypes, and learning repositories.
+
+Some applied-AI and ML projects are still being migrated into structured form and aren't in my GitHub - feel free to ask about in-progress work.
+
+⸻
+
+🎯 Professional Interests
+	•	Machine learning on behavioural, biosignal & health datasets
+	•	Data engineering supporting ML & experimentation
+	•	Digital health & MedTech innovation
+	•	Applied AI patterns for real workflows
+	•	Cloud-aligned ML environments
+	•	Systems that balance performance, reliability, and compliance
+
+⸻
+
+🧭 Future Directions
+	•	Biosignal/time-series modelling
+	•	MLOps foundations for reproducible experiments
+	•	Secure cloud/edge pipelines for healthcare data
+	•	Advanced applied-AI evaluation & safety
+	•	Scientific computing & efficient Python/Go modules
