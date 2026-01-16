@@ -1,6 +1,6 @@
 # Hi, I’m Deanna 👋
 
-#### ML & Cloud Engineer | Biomedical Data | Applied AI | Digital Health Systems
+#### Software Engineer | Biomedical Data | Applied AI | Digital Health Systems
 
 I’m a machine-learning–oriented engineer working across data workflows, reproducible experimentation pipelines, backend services, and cloud-aligned development. My background in biomedical science, neuroscience research, and computing gives me a strong foundation for building reliable, privacy-conscious systems in health and research contexts.
 
@@ -8,6 +8,9 @@ I’ve worked with EEG, behavioural, and psychophysics datasets, timing-sensitiv
 
 🏆 Winner – NextGenAI Hackathon (2025)
 Contributed backend logic, data handling, workflow reliability features, and early scheduling functionality for a voice-assistive healthcare prototype delivered in 7 days.
+
+🏆 Winner – eSafety Hackathon Mini Challenge (2025)
+Contributor to the winning Mini Challenge team for MLAI’s Needle in the Hashtag Hackathon, designing and training a hybrid DistilBERT-based multilabel classifier that identifies high-risk online personas by combining text embeddings with linguistic and network features, in two days.
 
 I enjoy the intersection where data → modelling → engineering → clinical context meet, creating systems that are robust, explainable, and useful to real users.
 
