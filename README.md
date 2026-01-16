@@ -4,7 +4,7 @@
 
 I’m a machine-learning–oriented engineer working across data workflows, reproducible experimentation pipelines, backend services, and cloud-aligned development. My background in biomedical science, neuroscience research, and computing gives me a strong foundation for building reliable, privacy-conscious systems in health and research contexts.
 
-I’ve worked with EEG, behavioural, and psychophysics datasets, timing-sensitive acquisition workflows, and structured ML pipelines—while also building backend components, ingestion pipelines, containerised environments, and early applied-AI prototypes.
+I’ve worked with EEG, behavioural, and psychophysics datasets, timing-sensitive acquisition workflows, and structured ML pipelines, while also building backend components, ingestion pipelines, containerised environments, and early applied-AI prototypes.
 
 🏆 Winner – NextGenAI Hackathon (2025)
 Contributed backend logic, data handling, workflow reliability features, and early scheduling functionality for a voice-assistive healthcare prototype delivered in 7 days.
