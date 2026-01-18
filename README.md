@@ -16,28 +16,6 @@ I enjoy the intersection where data → modelling → engineering → real world
 
 ⸻
 
-# 🔭 Current Focus
-
-**Machine Learning & Data**
-- ML-ready datasets for real-world data
-- reproducible pipelines · cross-validation · model evaluation
-- feature engineering on behavioural & biosignal datasets
-- experiment tracking & structure
-
-**Cloud & Applied AI Engineering**
-- backend components supporting data preparation & inference
-- containerised experimentation environments
-- lightweight cloud workflows | reproducible development setups
-- clean API surfaces for ML and analytics workflows
-
-**Healthcare & Scientific Context**
-- PHI/PII-aware design
-- QMS-informed workflow design
-- data-governance mindset
-- experimental design & statistical reasoning
-
-⸻
-
 # 🛠️ Tech I Work With
 
 **💻 Languages**
@@ -96,12 +74,3 @@ Some applied-AI and ML projects aren't in my GitHub yet - feel free to ask about
 - Applied AI patterns for real workflows
 - Cloud-aligned ML environments
 - Systems that balance performance, reliability, and compliance
-
-⸻
-
-# 🧭 Future Directions
-- Biosignal/time-series modelling
-- MLOps foundations for reproducible experiments
-- Secure cloud/edge pipelines for healthcare data
-- Advanced applied-AI evaluation & safety
-- Scientific computing & efficient Python/Go modules
