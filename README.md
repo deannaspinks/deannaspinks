@@ -12,7 +12,7 @@ Contributed backend logic, data handling, workflow reliability features, and ear
 🏆 Winner – eSafety Hackathon Mini Challenge (2025)
 Contributor to the winning Mini Challenge team for MLAI’s Needle in the Hashtag Hackathon, designing and training a hybrid DistilBERT-based multilabel classifier that identifies high-risk online personas by combining text embeddings with linguistic and network features, in two days.
 
-I enjoy the intersection where data → modelling → engineering → clinical context meet, creating systems that are robust, explainable, and useful to real users.
+I enjoy the intersection where data → modelling → engineering → real world context meet, creating systems that are robust, explainable, and useful to real users.
 
 ⸻
 
