@@ -39,7 +39,7 @@ I enjoy the intersection where data → modelling → engineering → real world
 - FastAPI · Flask · REST APIs
 - containerised workflows (Docker) · Linux · GitHub Actions
 - reproducible environments · modular service patterns
-- Learning: Kubernetes, API gateways, edge-compute patterns
+- Learning: API gateways, edge-compute patterns
 
 **☁️ Cloud Foundations**
 - GCP · Azure · AWS (foundational)
