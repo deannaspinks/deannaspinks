@@ -28,7 +28,7 @@ I enjoy the intersection where data → modelling → engineering → real world
 - supervised pipelines · feature engineering · leakage prevention
 - data cleaning · cross-validation & evaluation patterns
 - exploratory analysis · statistical reasoning
-- Learning: TensorFlow, MLflow, streaming (Kafka/Spark)
+- Learning: TensorFlow, MLflow, streaming (MQTT/Kafka)
 
 **🧪 Biomedical & Signal Data**
 - EEG · behavioural & psychophysics datasets
@@ -68,9 +68,8 @@ Some applied-AI and ML projects aren't in my GitHub yet - feel free to ask about
 ⸻
 
 # 🎯 Professional Interests
-- Machine learning on behavioural, biosignal & health datasets
-- Data engineering supporting ML & experimentation
 - Digital health & MedTech innovation
 - Applied AI patterns for real workflows
-- Cloud-aligned ML environments
+- Data engineering supporting ML & experimentation
 - Systems that balance performance, reliability, and compliance
+- Machine learning on behavioural, biosignal & health datasets
