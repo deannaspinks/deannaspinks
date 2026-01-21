@@ -1,6 +1,6 @@
 # Hi, I’m Deanna 👋
 
-#### Software Engineer | Biomedical Data | Applied AI | Digital Health Systems
+#### Software Engineer | Data Practitioner | Applied AI | Digital Health Systems | Biomedical Data
 
 I’m a machine-learning–oriented engineer working across data workflows, reproducible experimentation pipelines, backend services, and cloud-aligned development. My background in biomedical science, neuroscience research, and computing gives me a strong foundation for building reliable, privacy-conscious systems in health and research contexts.
 
