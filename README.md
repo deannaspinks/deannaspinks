@@ -63,7 +63,7 @@ I set this up so I could integrate my GitHub repos with Linear. Aiming for this 
 
 Explorations, prototypes, and learning repositories.
 
-Some applied-AI and ML projects aren't in my GitHub yet - feel free to ask about in-progress work.
+Some applied-AI and ML projects aren't in my GitHub - feel free to ask about in-progress work.
 
 ⸻
 
